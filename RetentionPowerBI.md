@@ -37,3 +37,4 @@ DIVIDE(
     )
 )
 ```
+**Após a criação das colunas e da medida, basta criamos uma matriz com a CohortColumn como colunas e FirstDate como Linhas. O resultado final com formatação condicional será:**
