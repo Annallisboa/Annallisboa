@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Anna Lisboa</h1>
-<h3 align="center">A passionate Data Analyst from Brazil</h3>
+<h3 align="center">A passionate Data Scientist from Brazil</h3>
 
 - 🌱 I’m currently learning **Data Science**
 
-- 💬 Ask me about **SQL, Power BI, Mixpanel, Python and Excel**
+- 💬 Ask me about **SQL, Python and LLM**
 
 - 📫 How to reach me **anna_luiza89@hotmail.com**
 
