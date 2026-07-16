@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anna Lisboa</h1>
 <h3 align="center">A passionate Data Scientist from Brazil</h3>
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **IA Engineering**
 
 - 💬 Ask me about **SQL, Python and LLM**
 
